@@ -1,5 +1,5 @@
-.env
 venv/
 data/
 *.ipynb
 .vscode
+configs/__pycache__
